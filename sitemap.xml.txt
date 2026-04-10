@@ -1,18 +1,18 @@
 <?xml
 version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet
-type="text/xsl" href="https://amashiro.com/wp-sitemap-index.xsl" ?>
+type="text/xsl" href="https://www.wentianplay.cn/wp-sitemap-index.xsl" ?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <sitemap>
-        <loc>https://amashiro.com/wp-sitemap-posts-page-1.xml</loc>
+        <loc>https://www.wentianplay.cn/sitemap-posts-page-1.xml</loc>
     </sitemap>
     <sitemap>
-        <loc>https://amashiro.com/wp-sitemap-posts-cpt_gallery-1.xml</loc>
+        <loc>https://www.wentianplay.cn/sitemap-posts-cpt_gallery-1.xml</loc>
     </sitemap>
     <sitemap>
-        <loc>https://amashiro.com/wp-sitemap-posts-cpt_produce-1.xml</loc>
+        <loc>https://www.wentianplay.cn/sitemap-posts-cpt_produce-1.xml</loc>
     </sitemap>
     <sitemap>
-        <loc>https://amashiro.com/wp-sitemap-users-1.xml</loc>
+        <loc>https://www.wentianplay.cn/sitemap-users-1.xml</loc>
     </sitemap>
 </sitemapindex>
