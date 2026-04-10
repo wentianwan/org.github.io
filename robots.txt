@@ -1,4 +1,4 @@
 # robots.txt for www.wentianplay.cn
 User-agent: *
 Allow: /
-Sitemap: https://www.wentianplay.net/wp-sitemap.xml
+Sitemap: https://www.wentianplay.cn/sitemap.xml
