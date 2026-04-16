@@ -1,4 +1,4 @@
-# robots.txt for www.wentianplay.cn
+# robots.txt for www.wentianwan.cn
 User-agent: *
 Allow: /
-Sitemap: https://www.wentianplay.cn/sitemap.xml
+Sitemap: https://www.wentianwan.cn/sitemap.xml
